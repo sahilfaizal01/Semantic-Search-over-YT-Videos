@@ -1,2 +1,2 @@
 # Semantic-Search-over-YT-Videos
-An end-to-end MLOps project performing semantic search operation over data extracted from Big Bang Theory Youtube videos
+A full-stack data science application for semantic search over data extracted from Big Bang Theory Youtube videos
